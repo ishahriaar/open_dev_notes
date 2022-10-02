@@ -1,4 +1,4 @@
-# open_development_faq
+# open_dev_notes
 quick loop up &lt;/>
 # ✨ hacktoberfest2022 💫
 
@@ -31,10 +31,10 @@ In our dev life, we have some code snippets that we frequently use. The goal of 
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
-git clone https://github.com/you_username/open_development_faq.git
+git clone https://github.com/you_username/open_dev_notes.git
 * change the present working directory
 markdown
-cd open_developement_faq
+cd open_dev_notes
 * Add/Create your code snippet to the specific folder as described in what you can contribute section.
 * Make a new branch
 markdown
